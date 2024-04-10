@@ -1,3 +1,5 @@
+## This project is all about TODO List were it uses inmemory storage to store the task.
+
 ## LIST YOUR TASKS
 ### 1. Use of font awesome icons.
 ### 2. Facility for deleting the task which are completed.
